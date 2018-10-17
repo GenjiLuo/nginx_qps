@@ -53,9 +53,7 @@ Requests Per Secs:  0.18795579281101
 5xx num:    0
 ```
 
-* 如果对你有帮助, 请我喝杯咖啡吧 :)
 
-![wechatqr](https://cloud.githubusercontent.com/assets/1414745/15242713/42270b10-192a-11e6-9d37-0e538089e3d0.png)
 
 license
 -------
